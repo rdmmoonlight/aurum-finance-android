@@ -1,1 +1,2 @@
-aurum-finance-android
+
+af-android
